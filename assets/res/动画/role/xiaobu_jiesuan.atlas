@@ -1,0 +1,69 @@
+
+xiaobu_jiesuan.png
+size: 301,222
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eye01
+  rotate: false
+  xy: 216, 41
+  size: 19, 8
+  orig: 19, 8
+  offset: 0, 0
+  index: -1
+eye02
+  rotate: true
+  xy: 282, 67
+  size: 20, 6
+  orig: 20, 6
+  offset: 0, 0
+  index: -1
+hand01
+  rotate: false
+  xy: 247, 21
+  size: 33, 66
+  orig: 33, 66
+  offset: 0, 0
+  index: -1
+hand02
+  rotate: true
+  xy: 247, 89
+  size: 48, 52
+  orig: 48, 52
+  offset: 0, 0
+  index: -1
+leg01
+  rotate: true
+  xy: 216, 51
+  size: 78, 29
+  orig: 78, 29
+  offset: 0, 0
+  index: -1
+leg02
+  rotate: true
+  xy: 243, 139
+  size: 81, 28
+  orig: 81, 28
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 273, 195
+  size: 14, 25
+  orig: 14, 25
+  offset: 0, 0
+  index: -1
+saihong
+  rotate: true
+  xy: 216, 131
+  size: 89, 25
+  orig: 89, 25
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 2
+  size: 212, 218
+  orig: 212, 218
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "bf427967-c564-46ef-a4fb-24ab1815a844",
+  "atlasJson": "{\"width\":512,\"imagePath\":\"ShouZhiYinDao_tex.png\",\"name\":\"ShouZhiYinDao\",\"SubTexture\":[{\"frameWidth\":224,\"y\":1,\"frameHeight\":235,\"width\":224,\"frameX\":0,\"height\":224,\"name\":\"GQ_4\",\"frameY\":0,\"x\":1},{\"frameWidth\":224,\"y\":178,\"frameHeight\":235,\"width\":149,\"frameX\":-39,\"height\":151,\"name\":\"GQ_2\",\"frameY\":-37,\"x\":227},{\"frameWidth\":224,\"y\":1,\"frameHeight\":235,\"width\":176,\"frameX\":-24,\"height\":175,\"name\":\"GQ_3\",\"frameY\":-26,\"x\":227},{\"frameWidth\":224,\"y\":178,\"frameHeight\":235,\"width\":130,\"frameX\":-48,\"height\":130,\"name\":\"GQ_1\",\"frameY\":-48,\"x\":378},{\"width\":68,\"y\":1,\"height\":79,\"name\":\"S_1\",\"x\":405}],\"height\":512}",
+  "texture": "d7abbf55-1c8a-4b8a-8653-efcaadd672da",
+  "subMetas": {}
+}

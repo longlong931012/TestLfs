@@ -1,0 +1,76 @@
+
+shine.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang_10
+  rotate: false
+  xy: 2, 348
+  size: 113, 87
+  orig: 113, 87
+  offset: 0, 0
+  index: -1
+guang_4
+  rotate: false
+  xy: 2, 261
+  size: 67, 85
+  orig: 67, 85
+  offset: 0, 0
+  index: -1
+guang_5
+  rotate: false
+  xy: 776, 732
+  size: 64, 86
+  orig: 64, 86
+  offset: 0, 0
+  index: -1
+guang_6
+  rotate: false
+  xy: 776, 820
+  size: 66, 87
+  orig: 66, 87
+  offset: 0, 0
+  index: -1
+guang_7
+  rotate: false
+  xy: 2, 174
+  size: 64, 85
+  orig: 64, 85
+  offset: 0, 0
+  index: -1
+guang_8
+  rotate: false
+  xy: 117, 348
+  size: 64, 87
+  orig: 64, 87
+  offset: 0, 0
+  index: -1
+guang_9
+  rotate: false
+  xy: 844, 820
+  size: 63, 87
+  orig: 63, 87
+  offset: 0, 0
+  index: -1
+guang_changpanzi
+  rotate: false
+  xy: 2, 437
+  size: 407, 199
+  orig: 407, 199
+  offset: 0, 0
+  index: -1
+guang_fangpanzi
+  rotate: false
+  xy: 416, 659
+  size: 358, 248
+  orig: 358, 248
+  offset: 0, 0
+  index: -1
+guang_yuanpanzi
+  rotate: false
+  xy: 2, 638
+  size: 412, 269
+  orig: 412, 269
+  offset: 0, 0
+  index: -1

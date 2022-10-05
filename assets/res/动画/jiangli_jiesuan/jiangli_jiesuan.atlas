@@ -1,0 +1,41 @@
+
+jiangli_jiesuan.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang010
+  rotate: false
+  xy: 2, 427
+  size: 549, 548
+  orig: 549, 548
+  offset: 0, 0
+  index: -1
+guang02
+  rotate: false
+  xy: 2, 86
+  size: 425, 339
+  orig: 425, 339
+  offset: 0, 0
+  index: -1
+qiqiu01
+  rotate: false
+  xy: 2, 2
+  size: 55, 82
+  orig: 55, 82
+  offset: 0, 0
+  index: -1
+qiqiu02
+  rotate: false
+  xy: 553, 884
+  size: 47, 91
+  orig: 47, 91
+  offset: 0, 0
+  index: -1
+qiqiu03
+  rotate: false
+  xy: 429, 337
+  size: 48, 88
+  orig: 48, 88
+  offset: 0, 0
+  index: -1

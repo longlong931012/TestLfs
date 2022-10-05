@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "df8aeb96-3963-4035-a7b6-57700a8172f4",
+  "atlasJson": "{\"width\":1024,\"imagePath\":\"guochang_1_tex.png\",\"name\":\"guochang_1\",\"SubTexture\":[{\"width\":555,\"y\":1,\"height\":226,\"name\":\"Cloud_1\",\"x\":1}],\"height\":256}",
+  "texture": "0ec57c45-1350-4f86-8539-17e548bb08d3",
+  "subMetas": {}
+}

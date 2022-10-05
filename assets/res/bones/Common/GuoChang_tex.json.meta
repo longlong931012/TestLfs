@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "df094a23-d859-4554-aa56-1681a721244a",
+  "atlasJson": "{\"imagePath\":\"GuoChang_tex.png\",\"width\":4096,\"height\":2048,\"name\":\"GuoChang\",\"SubTexture\":[{\"width\":2668,\"y\":1,\"height\":1500,\"name\":\"beijing 1\",\"x\":1}]}",
+  "texture": "04e90cde-a803-41aa-8547-79c808becbb7",
+  "subMetas": {}
+}

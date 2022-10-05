@@ -1,0 +1,55 @@
+
+loading.png
+size: 489,150
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+feiji
+  rotate: false
+  xy: 2, 3
+  size: 266, 145
+  orig: 266, 145
+  offset: 0, 0
+  index: -1
+luo01
+  rotate: false
+  xy: 453, 41
+  size: 34, 56
+  orig: 34, 56
+  offset: 0, 0
+  index: -1
+luo02
+  rotate: false
+  xy: 396, 2
+  size: 33, 57
+  orig: 33, 57
+  offset: 0, 0
+  index: -1
+luo03
+  rotate: false
+  xy: 431, 12
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+xiaobu
+  rotate: false
+  xy: 270, 14
+  size: 124, 134
+  orig: 124, 134
+  offset: 0, 0
+  index: -1
+yun01
+  rotate: false
+  xy: 396, 99
+  size: 75, 49
+  orig: 75, 49
+  offset: 0, 0
+  index: -1
+yun02
+  rotate: false
+  xy: 396, 61
+  size: 55, 36
+  orig: 55, 36
+  offset: 0, 0
+  index: -1

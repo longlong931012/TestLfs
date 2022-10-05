@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "8b9967fe-a9b7-44eb-a9f1-f95878f60fdf",
+  "atlasJson": "{\"width\":256,\"SubTexture\":[{\"width\":69,\"y\":1,\"height\":69,\"name\":\"biaopan\",\"x\":186},{\"width\":22,\"y\":72,\"height\":9,\"name\":\"fenzhen\",\"x\":1},{\"width\":6,\"y\":60,\"height\":6,\"name\":\"shenglvhao\",\"x\":1},{\"width\":8,\"y\":38,\"height\":20,\"name\":\"shizhen\",\"x\":1},{\"width\":183,\"y\":1,\"height\":35,\"name\":\"ziti\",\"x\":1}],\"height\":128,\"name\":\"UI\",\"imagePath\":\"UI_tex.png\"}",
+  "texture": "53aaa3d0-fc0f-4810-b625-e7baffc6ff06",
+  "subMetas": {}
+}

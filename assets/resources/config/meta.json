@@ -1,0 +1,119 @@
+{
+    "Sounds": [
+        {
+            "id": "BG_01",
+            "type": 1,
+            "value": "shuxue02-bg"
+        },
+        {
+            "id": "PB_01",
+            "type": 2,
+            "value": "shuxue02-pb01"
+        },
+        {
+            "id": "PB_02",
+            "type": 2,
+            "value": "shuxue02-pb02"
+        },
+        {
+            "id": "PB_03",
+            "type": 2,
+            "value": "shuxue02-pb03"
+        },
+        {
+            "id": "PB_04",
+            "type": 2,
+            "value": "shuxue02-pb04"
+        },
+        {
+            "id": "PB_05",
+            "type": 2,
+            "value": "shuxue02-pb05"
+        },
+        {
+            "id": "PB_06",
+            "type": 2,
+            "value": "shuxue02-pb06"
+        },
+        {
+            "id": "PB_07",
+            "type": 2,
+            "value": "shuxue02-pb07"
+        },
+        {
+            "id": "PB_08",
+            "type": 2,
+            "value": "shuxue02-pb08"
+        },
+        {
+            "id": "PB_09",
+            "type": 2,
+            "value": "shuxue02-pb09"
+        },
+        {
+            "id": "PB_10",
+            "type": 2,
+            "value": "shuxue02-pb10"
+        },
+        {
+            "id": "PB_11",
+            "type": 2,
+            "value": "shuxue02-pb11"
+        },
+        {
+            "id": "PB_12",
+            "type": 2,
+            "value": "shuxue02-pb12"
+        },
+        {
+            "id": "PB_13",
+            "type": 2,
+            "value": "shuxue02-tsy01"
+        },
+        {
+            "id": "PB_14",
+            "type": 2,
+            "value": "shuxue02-tsy02"
+        },
+        {
+            "id": "PB_15",
+            "type": 2,
+            "value": "shuxue02-tsy03"
+        },
+        {
+            "id": "PB_16",
+            "type": 2,
+            "value": "shuxue02-tsy04"
+        },
+        {
+            "id": "TX_01",
+            "type": 2,
+            "value": "shuxue02-tsy05"
+        },
+        {
+            "id": "TX_02",
+            "type": 2,
+            "value": "shuxue02-tsy06"
+        },
+        {
+            "id": "TX_03",
+            "type": 3,
+            "value": "shuxue02-tsy07"
+        },
+        {
+            "id": "TX_04",
+            "type": 3,
+            "value": "shuxue02-tsy08"
+        },
+        {
+            "id": "TX_05",
+            "type": 3,
+            "value": "shuxue02-tsy09"
+        },
+        {
+            "id": "TX_06",
+            "type": 3,
+            "value": "shuxue02-tsy10"
+        }
+    ]
+}

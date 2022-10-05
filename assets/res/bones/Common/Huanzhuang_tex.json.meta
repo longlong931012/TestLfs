@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "11da4edf-4de8-4ae0-a4f8-4c05030ef7aa",
+  "atlasJson": "{\"SubTexture\":[{\"width\":37,\"y\":1,\"height\":50,\"name\":\"XX_01\",\"x\":40},{\"width\":37,\"y\":1,\"height\":50,\"name\":\"XX_02\",\"x\":1},{\"width\":19,\"y\":1,\"height\":26,\"name\":\"XX_03\",\"x\":79}],\"width\":128,\"height\":64,\"name\":\"Huanzhuang\",\"imagePath\":\"Huanzhuang_tex.png\"}",
+  "texture": "edbc639f-3aaf-4fa4-b279-d7a2d4b6a71e",
+  "subMetas": {}
+}

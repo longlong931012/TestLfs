@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "1e1cf930-cd34-4a07-8bec-9688ea3a98dc",
+  "atlasJson": "{\"SubTexture\":[{\"frameX\":-150,\"frameHeight\":403,\"y\":862,\"frameY\":-137,\"frameWidth\":403,\"width\":107,\"height\":116,\"name\":\"yan1\",\"x\":313},{\"frameX\":-56,\"frameHeight\":403,\"y\":611,\"frameY\":-57,\"frameWidth\":403,\"width\":310,\"height\":291,\"name\":\"yan3\",\"x\":1},{\"frameX\":-54,\"frameHeight\":403,\"y\":611,\"frameY\":-69,\"frameWidth\":403,\"width\":287,\"height\":249,\"name\":\"yan2\",\"x\":313},{\"frameX\":-56,\"frameHeight\":403,\"y\":1,\"frameY\":-48,\"frameWidth\":403,\"width\":302,\"height\":303,\"name\":\"yan5\",\"x\":1},{\"frameX\":-56,\"frameHeight\":403,\"y\":306,\"frameY\":-48,\"frameWidth\":403,\"width\":302,\"height\":303,\"name\":\"yan4\",\"x\":1}],\"width\":1024,\"height\":1024,\"name\":\"yanwu\",\"imagePath\":\"yanwu_tex.png\"}",
+  "texture": "2712128b-8237-4a7c-a029-aec18a5d2075",
+  "subMetas": {}
+}

@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.1",
+  "uuid": "1f8a4e49-d8f0-4445-804c-1d76bd6b2ff6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "Arithmetic questions_2": {
+      "ver": "1.0.4",
+      "uuid": "79e0f763-3f24-43a6-97c5-2805dd34ecdf",
+      "rawTextureUuid": "1f8a4e49-d8f0-4445-804c-1d76bd6b2ff6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 307,
+      "height": 284,
+      "rawWidth": 307,
+      "rawHeight": 284,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
